@@ -1,0 +1,43 @@
+﻿生成启动时间为 2019/11/8 16:04:36。
+     1>项目“F:\github\MyCode\11_8\11_8\11_8.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\11_8.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\下载软件\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt leetcode_test.c
+         leetcode_test.c
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(86): error C2065: “string”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(86): error C2146: 语法错误: 缺少“;”(在标识符“res”的前面)
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(86): error C2065: “res”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(88): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(89): error C2065: “string”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(89): error C2146: 语法错误: 缺少“;”(在标识符“reps”的前面)
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(89): error C2065: “reps”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(89): error C2059: 语法错误:“]”
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(91): error C2065: “string”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(91): error C2146: 语法错误: 缺少“;”(在标识符“res”的前面)
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(91): error C2065: “res”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(92): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(92): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(92): error C2143: 语法错误 : 缺少“)”(在“类型”的前面)
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(92): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(92): error C2065: “i”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(92): warning C4552: “<”: 运算符不起任何作用；应输入带副作用的运算符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(92): error C2065: “i”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(92): error C2059: 语法错误:“)”
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(92): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(93): error C2065: “values”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(93): error C2065: “i”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(93): error C2109: 下标要求数组或指针类型
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(94): error C2065: “values”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(94): error C2065: “i”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(94): error C2109: 下标要求数组或指针类型
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(95): error C2065: “res”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(95): error C2065: “reps”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(95): error C2065: “i”: 未声明的标识符
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(95): error C2109: 下标要求数组或指针类型
+     1>f:\github\mycode\11_8\11_8\leetcode_test.c(98): error C2065: “res”: 未声明的标识符
+     1>已完成生成项目“F:\github\MyCode\11_8\11_8\11_8.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.19
