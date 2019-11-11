@@ -1,0 +1,22 @@
+﻿生成启动时间为 2019/11/11 21:27:06。
+     1>项目“F:\github\MyCode\11_10\11_10\11_10.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\11_11.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\下载软件\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>f:\github\mycode\11_10\11_10\test.c(212): warning C4013: “printf”未定义；假设外部返回 int
+       Link:
+         D:\下载软件\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\github\MyCode\11_10\Debug\11_11.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\11_11.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\github\MyCode\11_10\Debug\11_11.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\github\MyCode\11_10\Debug\11_11.lib" /MACHINE:X86 Debug\test.obj
+         LINK : 没有找到 F:\github\MyCode\11_10\Debug\11_11.exe 或上一个增量链接没有生成它；正在执行完全链接
+         11_10.vcxproj -> F:\github\MyCode\11_10\Debug\11_11.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\github\MyCode\11_10\Debug\11_11.exe;#1" /manifest Debug\11_11.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\11_11.unsuccessfulbuild”。
+         正在对“Debug\11_11.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\github\MyCode\11_10\11_10\11_10.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.64
