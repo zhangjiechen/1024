@@ -1,0 +1,21 @@
+﻿生成启动时间为 2019/11/17 22:01:36。
+     1>项目“F:\github\MyCode\11_17\11_17\11_17.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\11_17.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\下载软件\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+       Link:
+         D:\下载软件\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\github\MyCode\11_17\Debug\11_17.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\11_17.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\github\MyCode\11_17\Debug\11_17.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\github\MyCode\11_17\Debug\11_17.lib" /MACHINE:X86 Debug\test.obj
+         LINK : 没有找到 F:\github\MyCode\11_17\Debug\11_17.exe 或上一个增量链接没有生成它；正在执行完全链接
+         11_17.vcxproj -> F:\github\MyCode\11_17\Debug\11_17.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\github\MyCode\11_17\Debug\11_17.exe;#1" /manifest Debug\11_17.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\11_17.unsuccessfulbuild”。
+         正在对“Debug\11_17.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\github\MyCode\11_17\11_17\11_17.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.75
